@@ -114,7 +114,7 @@
     <repositories>
         <repository>
             <id>atlassian-public-repository</id>
-            <url>http://maven.atlassian.com/repository/public</url>
+            <url>https://maven.atlassian.com/repository/public</url>
         </repository>
         <repository>
             <id>jgit-repository</id>
